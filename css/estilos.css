@@ -1,9 +1,26 @@
 
+/*PRIMERA PANTALLA*/
 .pantallaarriba{
     width: 20em;
     height: 20em;
     background-color: pink;
 
     border-radius: 7% 7% 7% 7%;
+    margin-bottom: 0.5em;
     
 }
+
+[data-type*="pantallanegra"]{
+    width: 15em;
+    height: 15em;
+    background-color: black;
+    border-radius: 7% 7% 7% 7%;
+}
+
+[data-type*="pantallagris"]{
+    width: 12em;
+    height: 12em;
+    background-color: grey;
+    border-radius: 7% 7% 7% 7%;
+}
+    
