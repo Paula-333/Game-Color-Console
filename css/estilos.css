@@ -1,1 +1,9 @@
 
+.pantallaarriba{
+    width: 20em;
+    height: 20em;
+    background-color: pink;
+
+    border-radius: 7% 7% 7% 7%;
+    
+}
