@@ -2,18 +2,19 @@
 /*PRIMERA PANTALLA*/
 
 .prueba{
-display: flex;
-justify-content: center;
-align-items: center;
+    display: flex;
+    justify-content: center;
+    align-items: center;
 }
 
 .pantallaarriba{
     width: 20em;
-    height: 20em;
-    background-color: pink;
+    height: 35em;
+    background-color: #d6899c;
 
-    border-radius: 7% 7% 7% 7%;
+    border-radius: 7% 7% 20% 7%;
     margin-bottom: 0.5em;
+    
     display: flex;
     justify-content: center;
     align-items: center;
