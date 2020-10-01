@@ -1,23 +1,22 @@
 
-/*..PRIMERA PANTALLA..*/
+/*..PARTE DE ARRIBA..*/
 
-.posicion{
+.posicion {
     display: flex;
     justify-content: center;
     align-items: center;
 }
 
-.pantallaarriba{
+.cuerpodelaconsola{
     width: 20em;
-    height: 35em;
+    height: 32em;
     background-color: #d6899c;
 
-    border-radius: 7% 7% 20% 7%;
+    border-radius: 7% 7% 17% 7%;
     margin: 1em;
     display: flex;
     justify-content: center;
     align-items: space-between;
-    
 }
 
 .pantallanegra{
@@ -33,9 +32,38 @@
 }
 
 .pantallagris{
-    width: 12em;
-    height: 12em;
-    background-color: grey;
+    width: 13em;
+    height: 13em;
+    background-color: rgb(57, 75, 68);
     border-radius: 7% 7% 7% 7%;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    left: 0.5em;
+
 }
     
+/*..PARTE DE ABAJO..*/
+
+.botones {
+    display: flex;
+    justify-content: flex-end;
+    align-items: flex-end;
+   
+}
+
+.boton1 {
+    width: 1.2em;
+    height: 1.2em;
+    background-color: black;
+
+    border-radius: 7% 7% 7% 7%;
+    margin-top: 1.5em;
+
+    position: relative;
+    right: 14.5em;
+    top: -10em;
+     
+}
