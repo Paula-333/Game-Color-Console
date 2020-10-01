@@ -10,7 +10,7 @@
 .cuerpodelaconsola{
     width: 18.5em;
     height: 30em;
-    background-color: #d6899c;
+    background: linear-gradient(to bottom, #861d5a 18%, #f7c0d3 100%);
 
     border-radius: 7% 7% 17% 7%;
     margin: 1em;
@@ -48,7 +48,7 @@
 .boton1 {
     width: 1.7em;
     height: 1.2em;
-    background-color: black;
+    background: linear-gradient(to right, #0d0d0d 0%, #aaa1a4 100%);
 
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
@@ -61,7 +61,7 @@
 .boton2 {
     width: 1.2em;
     height: 1.7em;
-    background-color: black;
+    background: linear-gradient(to bottom, #0d0d0d 0%, #aaa1a4 100%);
 
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
@@ -74,7 +74,7 @@
 .boton3 {
     width: 1.7em;
     height: 1.2em;
-    background-color: black;
+    background: linear-gradient(to left, #0d0d0d 0%, #aaa1a4 100%);
 
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
@@ -87,9 +87,9 @@
 .boton4 {
     width: 1.2em;
     height: 1.2em;
-    background-color: black;
+    background-color: #AAA1A4;
 
-    border-radius: 7% 7% 7% 7%;
+    border-radius: 15% 15% 15% 15%;
     margin-top: 1.5em;
 
     position: relative;
@@ -100,8 +100,7 @@
 .boton5 {
     width: 1.2em;
     height: 1.7em;
-    background-color: black;
-
+    background: linear-gradient(to top, #0d0d0d 0%, #aaa1a4 100%);
     border-radius:  7% 7%;
     margin-top: 1.5em;
 
@@ -120,22 +119,22 @@
 .redondo1 {
     width: 2.2em;
     height: 2.2em;
-    background-color: grey;
     border-radius: 50% 50% 50% 50%;
     position: relative;
     right: 5em;
     top: 4.5em;
+    background: linear-gradient(to bottom right, #0d0d0d 26%, #aaa1a4 100%);
     
 }
 
 .redondo2 {
     width: 2.2em;
     height: 2.2em;
-    background-color: grey;
     border-radius: 50% 50% 50% 50%;
     position: relative;
     right: 8em;
     top: 4em;
+    background: linear-gradient(to bottom right, #0d0d0d 26%, #aaa1a4 100%);
 
 
 }
@@ -151,21 +150,20 @@
 .rectangulo1 {
     width: 2em;
     height: 0.5em;
-    background-color: black;
     position: relative;
     right: 12em;
     top: 8.5em;
     border-radius: 45%;
+    background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
 
 }
 
 .rectangulo2 {
     width: 2em;
     height: 0.5em;
-    background-color: black;
     position: relative;
     right: 9em;
     top: 8em;
     border-radius: 45%;
-
+    background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
 }
