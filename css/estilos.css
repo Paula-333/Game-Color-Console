@@ -119,3 +119,44 @@
     top: 0.3em;
      
 }
+.botonesredondos{
+    display: flexbox;
+    justify-self: center;
+    align-self: center;
+}
+
+.redondo1 {
+    width: 1.2em;
+    height: 1.2em;
+    background-color: black;
+
+}
+
+.redondo2 {
+    width: 1.2em;
+    height: 1.2em;
+    background-color: black;
+
+}
+
+
+.botonesrectangulo{
+    display: flexbox;
+    justify-self: flex-end;
+    align-self: flex-end;
+
+}
+
+.rectangulo1 {
+    width: 1.2em;
+    height: 1.2em;
+    background-color: black;
+
+}
+
+.rectangulo2 {
+    width: 1.2em;
+    height: 1.2em;
+    background-color: black;
+
+}
