@@ -1,7 +1,7 @@
 
-/*PRIMERA PANTALLA*/
+/*..PRIMERA PANTALLA..*/
 
-.prueba{
+.posicion{
     display: flex;
     justify-content: center;
     align-items: center;
@@ -13,11 +13,10 @@
     background-color: #d6899c;
 
     border-radius: 7% 7% 20% 7%;
-    margin-bottom: 0.5em;
-    
+    margin: 1em;
     display: flex;
     justify-content: center;
-    align-items: center;
+    align-items: space-between;
     
 }
 
@@ -25,8 +24,9 @@
     width: 15em;
     height: 15em;
     background-color: black;
-    border-radius: 7% 7% 7% 7%;
 
+    border-radius: 7% 7% 7% 7%;
+    margin-top: 1.5em;
     display: flex;
     justify-content: center;
     align-items: center;
