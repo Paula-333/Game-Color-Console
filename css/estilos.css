@@ -1,7 +1,7 @@
 
 /*..PARTE DE ARRIBA..*/
 
-.posicion {
+.posicion1 {
     display: flex;
     justify-content: center;
     align-self: center;
@@ -16,6 +16,7 @@
     margin: 1em;
     display: flex;
     justify-content: center;
+
 }
 
 .pantallanegra{
@@ -28,12 +29,14 @@
     display: flex;
     justify-content: center;
     align-self: center;
+    margin-top: -14em;
+    
     
 }
 
 .pantallagris{
-    width: 10em;
-    height: 12.5em;
+    width: 14em;
+    height: 11em;
     background-color: rgb(57, 75, 68);
     border-radius: 7% 7% 7% 7%;
     margin-top: 1em;
@@ -41,13 +44,6 @@
 }
     
 /*..PARTE DE ABAJO..*/
-
-.botones {
-    display: flexbox;
-    justify-self: center;
-    align-self: center;
- 
-}
 
 .boton1 {
     width: 1.7em;
@@ -58,8 +54,8 @@
     margin-top: 1.5em;
 
     position: relative;
-    right: 15em;
-    top: 10.2em;
+    right: 18em;
+    top: 18.7em;
      
 }
 .boton2 {
@@ -71,8 +67,8 @@
     margin-top: 1.5em;
 
     position: relative;
-    right: 13.5em;
-    top: 6em;
+    right: 16.4em;
+    top: 14.5em;
      
 }
 .boton3 {
@@ -84,8 +80,8 @@
     margin-top: 1.5em;
 
     position: relative;
-    right: 12.5em;
-    top: 4.3em;
+    left: -15.3em;
+    top: 12.8em;
      
 }
 .boton4 {
@@ -97,8 +93,8 @@
     margin-top: 1.5em;
 
     position: relative;
-    right: 13.5em;
-    top: 1.5em;
+    right: 16.4em;
+    top: 10em;
      
 }
 .boton5 {
@@ -110,8 +106,8 @@
     margin-top: 1.5em;
 
     position: relative;
-    right: 13.5em;
-    top: 0em;
+    right: 16.4em;
+    top: 8.4em;
      
 }
 .botonesredondos{
@@ -122,23 +118,23 @@
 }
 
 .redondo1 {
-    width: 2em;
-    height: 2em;
-    background-color: grey;
-    border-radius: 50% 50% 50% 50%;
-    position: relative;
-    right: 2em;
-    top: 5em;
-    
-}
-
-.redondo2 {
-    width: 2em;
-    height: 2em;
+    width: 2.2em;
+    height: 2.2em;
     background-color: grey;
     border-radius: 50% 50% 50% 50%;
     position: relative;
     right: 5em;
+    top: 4.5em;
+    
+}
+
+.redondo2 {
+    width: 2.2em;
+    height: 2.2em;
+    background-color: grey;
+    border-radius: 50% 50% 50% 50%;
+    position: relative;
+    right: 8em;
     top: 4em;
 
 
