@@ -11,25 +11,21 @@
     width: 18.5em;
     height: 30em;
     background: linear-gradient(to bottom, #b34766 18%, #ffd9e4 100%);
-
     border-radius: 7% 7% 17% 7%;
     margin: 1em;
     display: flex;
     justify-content: center;
-
 }
 
 .pantallanegra{
     width: 16.5em;
     height: 13.5em;
     background-color: black;
-
     border-radius: 7% 7% 7% 7%;
     display: flex;
     justify-content: center;
     align-self: center;
     margin-top: -14em;
-    
 }
 
 .pantallagris{
@@ -38,8 +34,6 @@
     background-color: rgb(57, 75, 68);
     border-radius: 7% 7% 7% 7%;
     margin-top: 1em;
-    
-
 }
 .pantallagris:hover{
     width: 14em;
@@ -48,9 +42,8 @@
     border-radius: 7% 7% 7% 7%;
     margin-top: 1em;
     transition: 0.5s;
-
 }
-    /* IMAGEN MAXIMA */
+    /* IMAGENES MAXIMAS */
 
 img{
     width: 11em;
@@ -58,7 +51,16 @@ img{
     border-radius: 15%;
     position: relative;
     top: 11em;
+}
 
+img.logo {
+    width: 80px;
+    height: 20px;
+    border-radius:100px;
+    border:10px;
+    position: relative;
+    top: -3.5em;
+    right: 13.3em;
 }
 
 
@@ -69,53 +71,42 @@ img{
     width: 1.7em;
     height: 1.2em;
     background: linear-gradient(to right, #0d0d0d 0%, #aaa1a4 100%);
-
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     right: 18em;
     top: 18.7em;
-     
 }
 
 .boton1:hover {
     width: 1.7em;
     height: 1.2em;
     background: linear-gradient(to right, #1f306e 0%, #aaa1a4 100%);
-
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     right: 18em;
     top: 18.7em;
-    transition: 0.5em;
-     
+    transition: 0.5em;   
 }
 
 .boton2 {
     width: 1.2em;
     height: 1.7em;
     background: linear-gradient(to bottom, #0d0d0d 0%, #aaa1a4 100%);
-
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     right: 16.4em;
-    top: 14.5em;
-     
+    top: 14.5em;  
 }
 
 .boton2:hover {
     width: 1.2em;
     height: 1.7em;
     background: linear-gradient(to bottom, #553772 0%, #aaa1a4 100%);
-
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     right: 16.4em;
     top: 14.5em;
@@ -126,10 +117,8 @@ img{
     width: 1.7em;
     height: 1.2em;
     background: linear-gradient(to left, #0d0d0d 0%, #aaa1a4 100%);
-
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     left: -15.3em;
     top: 12.8em;
@@ -140,31 +129,24 @@ img{
     width: 1.7em;
     height: 1.2em;
     background: linear-gradient(to left, #8f3b76 0%, #aaa1a4 100%);
-
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     left: -15.3em;
     top: 12.8em;
     transition: 0.5em;
-     
 }
 
 .boton4 {
     width: 1.2em;
     height: 1.2em;
     background-color: #AAA1A4;
-
     border-radius: 15% 15% 15% 15%;
     margin-top: 1.5em;
-
     position: relative;
     right: 16.4em;
-    top: 10em;
-     
+    top: 10em; 
 }
-
 
 .boton5 {
     width: 1.2em;
@@ -172,11 +154,9 @@ img{
     background: linear-gradient(to top, #0d0d0d 0%, #aaa1a4 100%);
     border-radius:  7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     right: 16.4em;
-    top: 8.4em;
-     
+    top: 8.4em;   
 }
 
 .boton5:hover {
@@ -185,19 +165,16 @@ img{
     background: linear-gradient(to top, #c2437a 0%, #aaa1a4 100%);
     border-radius:  7% 7%;
     margin-top: 1.5em;
-
     position: relative;
     right: 16.4em;
     top: 8.4em;
-    transition: 0.5em;
-     
+    transition: 0.5em; 
 }
 
 .botonesredondos{
     display: flexbox;
     justify-self: center;
     align-self: center;
-    
 }
 
 .redondo1 {
@@ -208,7 +185,6 @@ img{
     right: 5em;
     top: 4.5em;
     background: linear-gradient(to bottom right, #0d0d0d 26%, #aaa1a4 100%);
-    
 }
 
 .redondo1:hover {
@@ -222,8 +198,6 @@ img{
     transition: 0.5em;
 }
 
-
-
 .redondo2 {
     width: 2.2em;
     height: 2.2em;
@@ -232,10 +206,7 @@ img{
     right: 8em;
     top: 4em;
     background: linear-gradient(to bottom right, #0d0d0d 26%, #aaa1a4 100%);
-
-
 }
-
 
 .redondo2:hover {
     width: 2.2em;
@@ -246,16 +217,12 @@ img{
     top: 4em;
     background: linear-gradient(to bottom right, #0d0d0d 26%, #f5487f 100%);
     transition: 0.5em;
-
-
 }
-
 
 .botonesrectangulo{
     display: flexbox;
     justify-self: flex-end;
     align-self: flex-end;
-    
 }
 
 .rectangulo1 {
@@ -266,7 +233,6 @@ img{
     top: 8.5em;
     border-radius: 45%;
     background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
-
 }
 
 .rectangulo2 {
