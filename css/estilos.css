@@ -36,12 +36,12 @@
     margin-top: 1em;
 }
 .pantallagris:hover{
-    width: 14em;
-    height: 11em;
-    background: #ffb3c8;
+    width: 10em;
+    height: 9em;
     border-radius: 7% 7% 7% 7%;
     margin-top: 1em;
-    transition: 0.5s;
+    transition: 0.2s;
+    background-image: url("https://r.mprd.se/fup/up/68102-Sabrina_-_The_Animated_Series_-_Zapped!_(Europe)_(En,Fr,De)-1523653163.png");
 }
     /* IMAGENES MAXIMAS */
 
