@@ -51,16 +51,17 @@ img{
     border-radius: 15%;
     position: relative;
     top: 11em;
+    right: -1.5em;
 }
 
 img.logo {
     width: 80px;
     height: 20px;
-    border-radius:100px;
+    border-radius:150px;
     border:10px;
     position: relative;
     top: -3.5em;
-    right: 13.3em;
+    right: 12.5em;
 }
 
 
@@ -229,7 +230,7 @@ img.logo {
     width: 2em;
     height: 0.5em;
     position: relative;
-    right: 12em;
+    right: 13em;
     top: 8.5em;
     border-radius: 45%;
     background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
@@ -239,7 +240,7 @@ img.logo {
     width: 2em;
     height: 0.5em;
     position: relative;
-    right: 9em;
+    right: 10em;
     top: 8em;
     border-radius: 45%;
     background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
