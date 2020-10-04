@@ -47,13 +47,13 @@
 }
     /* IMAGENES MAXIMAS */
 
-img{
+img.color{
     width: 11em;
     height: 1.1em;
     border-radius: 15%;
     position: relative;
-    top: 11em;
-    right: -1.5em;
+    top: -5.5em;
+    right: 21em;
 }
 
 img.logo {
@@ -246,4 +246,26 @@ img.logo {
     top: 8em;
     border-radius: 45%;
     background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
+}
+.select{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -6em;
+    right: 10.9em;
+    font-size: 0.9em;
+    font-family: Helvetica;
+}
+
+.start{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    top: -9.9em;
+    right: 7.5em;
+    font-size: 0.9em;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: normal;
 }
