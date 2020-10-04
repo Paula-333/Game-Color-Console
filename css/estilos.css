@@ -1,4 +1,3 @@
-
 /*..PARTE DE ARRIBA..*/
 
 .posicion1 {
@@ -45,6 +44,7 @@
     transition: 0.2s;
     background-image: url("https://r.mprd.se/fup/up/68102-Sabrina_-_The_Animated_Series_-_Zapped!_(Europe)_(En,Fr,De)-1523653163.png");
 }
+
     /* IMAGENES MAXIMAS */
 
 img.color{
@@ -66,14 +66,12 @@ img.logo {
     right: 12.5em;
 }
 
-
-
 /*..PARTE DE ABAJO..*/
 
 .boton1 {
     width: 1.7em;
     height: 1.2em;
-    background: linear-gradient(to right, #0d0d0d 0%, #aaa1a4 100%);
+    background: linear-gradient(to right, #0d0d0d 0%, #f0cae4 100%);
     border-radius: 7% 7% 7% 7%;
     box-shadow: rgba(0, 0, 0, 0.562) 2px 2px 2px 1px;
     margin-top: 1.5em;
@@ -86,7 +84,7 @@ img.logo {
 .boton1:hover {
     width: 1.7em;
     height: 1.2em;
-    background: linear-gradient(to right, #1f306e 0%, #aaa1a4 100%);
+    background: linear-gradient(to right, #c2437a 0%, #f0cae4 100%);
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
     position: relative;
@@ -98,7 +96,7 @@ img.logo {
 .boton2 {
     width: 1.2em;
     height: 1.7em;
-    background: linear-gradient(to bottom, #0d0d0d 0%, #aaa1a4 100%);
+    background: linear-gradient(to bottom, #0d0d0d 0%, #f0cae4 100%);
     border-radius: 7% 7% 7% 7%;
     box-shadow: rgba(0, 0, 0, 0.562)  2px 2px 2px;
     margin-top: 1.5em;
@@ -110,7 +108,7 @@ img.logo {
 .boton2:hover {
     width: 1.2em;
     height: 1.7em;
-    background: linear-gradient(to bottom, #553772 0%, #aaa1a4 100%);
+    background: linear-gradient(to bottom, #c2437a 0%, #f0cae4 100%);
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
     position: relative;
@@ -122,7 +120,7 @@ img.logo {
 .boton3 {
     width: 1.7em;
     height: 1.2em;
-    background: linear-gradient(to left, #0d0d0d 0%, #aaa1a4 100%);
+    background: linear-gradient(to left, #0d0d0d 0%, #f0cae4 100%);
     border-radius: 7% 7% 7% 7%;
     box-shadow: rgba(0, 0, 0, 0.562) 2px 2px 2px;
     margin-top: 1.5em;
@@ -135,7 +133,7 @@ img.logo {
 .boton3:hover {
     width: 1.7em;
     height: 1.2em;
-    background: linear-gradient(to left, #8f3b76 0%, #aaa1a4 100%);
+    background: linear-gradient(to left, #c2437a 0%, #f0cae4 100%);
     border-radius: 7% 7% 7% 7%;
     margin-top: 1.5em;
     position: relative;
@@ -147,7 +145,7 @@ img.logo {
 .boton4 {
     width: 1.2em;
     height: 1.2em;
-    background-color: #AAA1A4;
+    background-color: #f0cae4;
     border-radius: 15% 15% 15% 15%;
     margin-top: 1.5em;
     position: relative;
@@ -158,7 +156,7 @@ img.logo {
 .boton5 {
     width: 1.2em;
     height: 1.7em;
-    background: linear-gradient(to top, #0d0d0d 0%, #aaa1a4 100%);
+    background: linear-gradient(to top, #0d0d0d 0%, #f0cae4 100%);
     border-radius:  7% 7%;
     box-shadow: rgba(0, 0, 0, 0.562)  2px 2px 2px;
     margin-top: 1.5em;
@@ -170,7 +168,7 @@ img.logo {
 .boton5:hover {
     width: 1.2em;
     height: 1.7em;
-    background: linear-gradient(to top, #c2437a 0%, #aaa1a4 100%);
+    background: linear-gradient(to top, #c2437a 0%, #f0cae4 100%);
     border-radius:  7% 7%;
     margin-top: 1.5em;
     position: relative;
@@ -193,7 +191,7 @@ img.logo {
     position: relative;
     right: 5em;
     top: 4.5em;
-    background: linear-gradient(to bottom right, #0d0d0d 26%, #aaa1a4 100%);
+    background: linear-gradient(to bottom right, #0d0d0d 26%, #f0cae4 100%);
 }
 
 .redondo1:hover {
@@ -203,7 +201,7 @@ img.logo {
     position: relative;
     right: 5em;
     top: 4.5em;
-    background: linear-gradient(to bottom right, #0d0d0d 26%, #f5487f 100%);
+    background: linear-gradient(to bottom right, #7f3f6a 26%, #f0cae4 100%);
     transition: 0.5em;
 }
 
@@ -215,7 +213,7 @@ img.logo {
     position: relative;
     right: 8em;
     top: 4em;
-    background: linear-gradient(to bottom right, #0d0d0d 26%, #aaa1a4 100%);
+    background: linear-gradient(to bottom right, #0d0d0d 26%, #f0cae4 100%);
 }
 
 .redondo2:hover {
@@ -225,7 +223,7 @@ img.logo {
     position: relative;
     right: 8em;
     top: 4em;
-    background: linear-gradient(to bottom right, #0d0d0d 26%, #f5487f 100%);
+    background: linear-gradient(to bottom right, #7f3f6a 26%, #f0cae4 100%);
     transition: 0.5em;
 }
 
@@ -243,7 +241,7 @@ img.logo {
     top: 8.5em;
     border-radius: 45%;
     box-shadow: rgba(0, 0, 0, 0.562)  2px 2px 2px;
-    background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
+    background: linear-gradient(to bottom, #0d0d0d 27%, #f0cae4 100%);
 }
 
 .rectangulo2 {
@@ -254,8 +252,9 @@ img.logo {
     top: 8em;
     border-radius: 45%;
     box-shadow: rgba(0, 0, 0, 0.562)  2px 2px 2px;
-    background: linear-gradient(to bottom, #0d0d0d 27%, #aaa1a4 100%);
+    background: linear-gradient(to bottom, #0d0d0d 27%, #f0cae4 100%);
 }
+
 .select{
     display: flex;
     justify-content: center;
